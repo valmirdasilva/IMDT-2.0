@@ -1,0 +1,36 @@
+.maxproduct-home {
+    padding-top: 68px;
+	max-height:300px;
+	overflow:hidden;
+	display:inline-block;
+}
+.productbox-home {
+	background:#fff;
+	padding:13px;
+	border:1px solid #e4e4e4;
+	margin-bottom:30px;
+    height: 334px;
+    border-radius: 10px;
+}
+
+.productbox-home img{
+    width: 100px;
+    height: 100px;
+}
+.box-social{
+    padding-right: 50px;
+    padding-top: 10px;
+    border-bottom: 1px solid;
+    font-size: 22px;
+}
+.box-social span{
+
+    font-size: 18px;
+    font-weight: 600;
+}
+.space-icons{
+    margin-right: 10px;
+}
+.marg{
+    padding: 0 10px;
+}
